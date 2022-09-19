@@ -8,13 +8,5 @@ En el presente proyecto se utilizará una base de datos de una estación climato
 ## Metodo
 Este proyecto incluye la utilización de herramientas de desarrollo como ser Python sobre Visual Studio Code. Adicionalmente, se utilizará Github para subir y documentar todo el Proyecto y exponer el proyecto al público de una manera open source. Para la ingestión, manipulación, y análisis de datos utilizaremos directorios de Python (CSV).
 ## Integrantes
-•	Isabella Erazo 24091 
-•	Mariana Pérez 24096
-•	Luis Manzanero 24126
-•	Lucero Popolizio 24139
-•	Eddy Toj 24190
 •	Samuel Hincapie 24191
-•	Nacely Aguilar 24243
-•	Ernesto Molina 24247
-•	Pablo Hun 24248
-•	Adrián Hernández 24279
+
