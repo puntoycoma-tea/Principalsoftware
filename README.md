@@ -10,3 +10,12 @@ Este proyecto incluye la utilización de herramientas de desarrollo como ser Pyt
 ## Integrantes
 •	Samuel Hincapie 24191
 •	Adrian Hernandez 24279
+•   Nacely Aguilar   24243
+## Fuente de Datos
+ En este proyecto utilizaremos los archivos exportados desde la base de datos de estación climatológica de Zamorano ( Escuela Agrícola Panamericana Zamorano). 
+
+ ## Referencias
+ 1.	https://bdigital.zamorano.edu/server/api/core/bitstreams/c833d7a4-b8b3-4585-9b6b-e137878b29d7/content
+ 2. Tabla Dinámica Datos Climatológicos 2015-2021 Zorrales.xlsx 
+ 
+
