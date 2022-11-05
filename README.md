@@ -12,7 +12,9 @@ Este proyecto incluye la utilización de herramientas de desarrollo como ser Pyt
 
 •	Adrian Hernandez 24279
 
-•  Nacely Aguilar   24243
+• Nacely Aguilar 24243
+
+• Luis Manzanero 24126
 
 ## Fuente de Datos
  En este proyecto utilizaremos los archivos exportados desde la base de datos de estación climatológica de Zamorano ( Escuela Agrícola Panamericana Zamorano). 
