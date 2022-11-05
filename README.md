@@ -9,8 +9,11 @@ En el presente proyecto se utilizará una base de datos de una estación climato
 Este proyecto incluye la utilización de herramientas de desarrollo como ser Python sobre Visual Studio Code. Adicionalmente, se utilizará Github para subir y documentar todo el Proyecto y exponer el proyecto al público de una manera open source. Para la ingestión, manipulación, y análisis de datos utilizaremos directorios de Python (CSV).
 ## Integrantes
 •	Samuel Hincapie 24191
+
 •	Adrian Hernandez 24279
-•   Nacely Aguilar   24243
+
+•  Nacely Aguilar   24243
+
 ## Fuente de Datos
  En este proyecto utilizaremos los archivos exportados desde la base de datos de estación climatológica de Zamorano ( Escuela Agrícola Panamericana Zamorano). 
 
