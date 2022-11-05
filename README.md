@@ -1,8 +1,9 @@
 # Principalsoftware 
-Este proyecto gira entorno a la Temperatura, ya que con dicho proyecto se pretende  dar soluciones más rápidas en el ámbito de la agricultura.
+Este proyecto gira entorno a la Temperatura, ya que con dicho proyecto se pretende  dar soluciones más rápidas en el ámbito agrícola.
 
 # Objetivos 
 General 
+
 •	Determinar un algoritmo con la finalidad de organizar y graficar los datos de la Base Climatológica de La Universidad EAP Zamorano en aplicaciones propuestas por los docentes, haciendo utilidad del lenguaje de programación Python visto en clases.
 
 Específicos
@@ -14,13 +15,16 @@ Específicos
 •	Proponer y presentar los resultados por medio de un gráfico que proyecte y organice el entendimiento de los datos recopilados y su análisis comprendido.
 
 ## Introducción y Problema a resolver
+
 Dentro de los diferentes cambios causados por el mal uso de los recursos y el impacto ambiental que ha generado, se encuentra actualmente el incremento de la temperatura que tiene una variación diaria, hace unas décadas eran marcadas cada una de las estaciones dentro del trópico donde las temperaturas eran constantes, en base a ello se realizaban una planificación sobre las actividades de diversa índole. En las ciencias agropecuarias genera un impacto las variaciones de temperatura, en especies como los cerdos y bovinos existe una reducción en la fertilidad causado por el estrés calórico, presentando no solo este problema sino una disminución en la producción de leche y el consumo de alimento, en las actividades acuícolas se limita la disponibilidad de oxígeno disuelto debido a los cambios de temperatura; las plantas son muy vulnerables a los cambios drásticos y se ve reflejado en la disminución del rendimiento de los cultivos. En la vida cotidiana del ser humano, son más latentes dichos cambios, por ende, es necesario regular esos patrones de cambio para predecir y planificar las diferentes actividades agropecuarias. 
 
 ## Solución en el área Agrícola
+
 En el presente proyecto se utilizará una base de datos de una estación climatológica de la universidad zamorano seleccionando una variables  que serán tabuladas en formato csv. Utilizando el lenguaje de programación Python se creará un algoritmo que permita organizar y graficar los datos en las aplicaciones propuestas por los asesores.
 Como parte de las recomendaciones enfocadas en la producción pecuaria en la actualidad se debe trabajar por el bienestar animal, garantizando una buena producción con la obtención de altos rendimientos y la seguridad de un trato justo a los animales, en este esquema de producción la temperatura representa un factor importante a considerar prueba de ello en la producción bovina, una temperatura adecuada ya sea en la producción de ganado de carne, lechero o doble propósito, tiene una variación debido a las razas manejadas dentro de cada sistema; el ganado de carne estabulado o de producción extensiva debe contar con un período de descanso lo cual debe de contar con una buena relación con la temperatura ya que ello evitará un estrés calórico lo cual puede tener repercusiones, expone (Khalifa 2003, en Arias et al., 2008, definió la temperatura ambiente efectiva de confort para el ganado como el estado constante de temperatura corporal, la cual puede ser mantenida sin necesidad de ajustes fisiológicos o de comportamiento. Por esta razón el promedio de la temperatura ambiente es generalmente considerado como la principal medida térmica utilizada para estimar confort animal).  En cuanto a la producción de carne pueden existir asfixias por el incremento de temperatura.
 
 ## Métodos y Herramientas utilizadas
+
 Este proyecto incluye la utilización de herramientas de desarrollo como ser Python sobre Visual Studio Code. Adicionalmente, se utilizará Github para subir y documentar todo el Proyecto y exponer el proyecto al público de una manera open source. Para la ingestión, manipulación, y análisis de datos utilizaremos directorios de Python (CSV).
 
 1. Python programming language (Python es un lenguaje de programación ampliamente utilizado en las aplicaciones web, el desarrollo de software, la ciencia de datos y el machine learning (ML). Los desarrolladores utilizan Python porque es eficiente y fácil de aprender, además de que se puede ejecutar en muchas plataformas diferentes.)
