@@ -8,7 +8,7 @@ General
 
 Específicos
 
-•	Comprender los datos de la Estación Climatológica de Zamorano con el fin de tomar una variable y graficar dicha variable en los últimos 100 días proporcionados. 
+•	Comprender los datos de la Estación Climatológica de Zamorano con el fin de tomar una variable y graficar dicha variable en los últimos años proporcionados. 
 
 •	Formular una solución al problema planteado sobre regular los distintivos patrones de cambio temperatura recopilada con ayuda del algoritmo planteado.
 
@@ -38,13 +38,15 @@ Este proyecto incluye la utilización de herramientas de desarrollo como ser Pyt
 5. Matplotlib (es una librería de Python open source que permite crear visualizaciones de datos. Es posible crear trazados, histogramas, diagramas de barra y cualquier tipo de grafica con ayuda de algunas líneas de código. (DataScientest, 2022)).
 
 ## Resultados
-   <img height="400" src= "https://github.com/NacelyAguilar/Lab-TEA-image/blob/main/comparaci%C3%B3ntemp.png" align="middle">
+   <img height="400" src= "https://github.com/NacelyAguilar/Lab-TEA-imageoriginal/blob/main/comparaci%C3%B3nori.png" align="middle">
 
 ## Interpretación de Gráfica
 
 Los resultados del proyecto se muestran positivos en cuanto al funcionamiento optimo del programa, pudiendo graficar de manera precisa y entendible la base de datos de la estación climatológica, gracias a esto podemos analizar la gráfica y entender de mejor manera la fuente de datos y así poder actuar en base a la información recibida. Por ejemplo, al analizar la gráfica de temperaturas mínimas y máximas anuales nos damos cuenta el incremento gradual que existe en la línea referente a las temperaturas máximas anuales, que empieza desde el 2015 y gradualmente va subiendo a medida se acerca al 2022, también cabe recalcar la pequeña temporada de estabilidad que empezó a finales del 2019 hasta mediados del 2021, lo cual podemos asociar a la paralización total de las actividades humanas debido a la pandemia mundial.
 
 ## Conclusiones
+1. Podemos concluir que gracias a la programación se nos hace mucho más fácil dar solocuiones a problemas, en los últimos años la tecnología genero gran impacto no solo en el ámbito agrícola, si no también en diversas áreas.
+
 ## Proyección a Futuro
 
 ## Integrantes
