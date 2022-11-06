@@ -47,9 +47,22 @@ Los resultados del proyecto se muestran positivos en cuanto al funcionamiento op
 ## Conclusiones
 1. Podemos concluir que gracias a la programación se nos hace mucho más fácil dar solocuiones a problemas, en los últimos años la tecnología genero gran impacto no solo en el ámbito agrícola, si no también en diversas áreas.
 
+
+
 ## Proyección a Futuro
 
+1. Una posible ruta de mejora para este proyecto podría ser el agregarle la capacidad de identificar patrones entre graficas de cada año, para localizar las épocas del año en las cuales se dan las temperaturas más altas y bajas, para poder adecuar los sistemas productivos y obtener una mejor eficiencia, así como también encontrar cambios como los atrasos o adelantos de épocas lluviosas o secas año con año.
+
+2. La capacidad de pronosticar los cambios de temperatura que habrá en los años por venir en la zona evaluada, esto sería posible si se cumple con un requisito y seria tener una base de datos de 5 años anteriores como mínimo, para llevar a cabo la pronosticación.
+
+3. También se puede implementar un método en el cual compare los datos actuales con los anteriores y muestre los cambios y magnitudes de estos que hubieron de un año a otro .
+
+4. Este proyecto también permitira a futuro poder mejorarse, ya que solo es una base de lo mucho que se puede hacer, posibles estudiantes de Zamorano pueden tomar como referencia dicho proyecto, y tratar de mejorar e innovar más sobre él.
+
+
+
 ## Integrantes
+
 •	Samuel Hincapie 24191
 
 •	Adrian Hernandez 24279
