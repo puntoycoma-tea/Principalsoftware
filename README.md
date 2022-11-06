@@ -77,6 +77,8 @@ Los resultados del proyecto se muestran positivos en cuanto al funcionamiento op
 
 • Eddy Toj 24190
 
+• Mariana Pérez 24096
+
 ## Fuente de Datos
 
  En este proyecto utilizaremos los archivos exportados desde la base de datos de estación climatológica de Zamorano ( Escuela Agrícola Panamericana Zamorano). 
