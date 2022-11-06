@@ -1,5 +1,6 @@
 # Principalsoftware 
-Este proyecto gira entorno a la Temperatura, ya que con dicho proyecto se pretende  dar soluciones más rápidas en el ámbito agrícola.
+
+Este proyecto gira entorno a una Estación Climatológica , ya que con dicho proyecto se pretende  dar soluciones más rápidas en el ámbito agrícola.
 
 # Objetivos 
 General 
@@ -45,7 +46,18 @@ Este proyecto incluye la utilización de herramientas de desarrollo como ser Pyt
 Los resultados del proyecto se muestran positivos en cuanto al funcionamiento optimo del programa, pudiendo graficar de manera precisa y entendible la base de datos de la estación climatológica, gracias a esto podemos analizar la gráfica y entender de mejor manera la fuente de datos y así poder actuar en base a la información recibida. Por ejemplo, al analizar la gráfica de temperaturas mínimas y máximas anuales nos damos cuenta el incremento gradual que existe en la línea referente a las temperaturas máximas anuales, que empieza desde el 2015 y gradualmente va subiendo a medida se acerca al 2022, también cabe recalcar la pequeña temporada de estabilidad que empezó a finales del 2019 hasta mediados del 2021, lo cual podemos asociar a la paralización total de las actividades humanas debido a la pandemia mundial.
 
 ## Conclusiones
-1. Podemos concluir que gracias a la programación se nos hace mucho más fácil dar solocuiones a problemas, en los últimos años la tecnología genero gran impacto no solo en el ámbito agrícola, si no también en diversas áreas.
+
+1.	Con ayuda de este algoritmo se puede tomar las mejores decisiones en el área agropecuaria además que se tendrá conocimiento de las condiciones climatología que presenta la zona o área a trabajar. De esa manera se optimizará los recursos y por ende la producción.
+
+2.	Se determino un algoritmo mediante el uso de aplicaciones propuestas por los docentes con el fin de organizar y graficar datos de la base climatológica (temperatura, precipitación y humedad relativa) de la Universidad Zamorano.
+
+3.	Se comprendieron los datos de la estación climatológica de Zamorano tomando y graficando las variables temperatura promedio anual, precipitación promedio anual y humedad relativa promedio anual del año 2015 al 2022.
+
+4.	Se presentaron los resultados por medio gráficas que proyectaron y organizaron el entendimiento de los datos recopilados de cada una de las variables seleccionadas.
+
+5.	En conclusión, es de suma relevancia la utilización de este tipo de herramientas como Visual Code, Python, Github, entre otras con el fin de organizar e interpretar datos basados en la Estación Climatológica de Zamorano.
+
+6. Podemos concluir que gracias a la programación se nos hace mucho más fácil dar solocuiones a problemas, en los últimos años la tecnología genero gran impacto no solo en el ámbito agrícola, si no también en diversas áreas.
 
 
 
@@ -82,13 +94,21 @@ Los resultados del proyecto se muestran positivos en cuanto al funcionamiento op
 ## Fuente de Datos
 
  En este proyecto utilizaremos los archivos exportados desde la base de datos de estación climatológica de Zamorano ( Escuela Agrícola Panamericana Zamorano). 
+ 
+ Nuestra base de Datos se encuntra en los archivos indicados arrriba en el readme como (Tea) base de datos limpiada y utilizada para generar nuestras gráficas y    (Tabla Dinámica Datos Climatológicos 2015-2021 Zorrales.xlsx) base de datos originales.
 
 ## Referencias
 
  1.	https://bdigital.zamorano.edu/server/api/core/bitstreams/c833d7a4-b8b3-4585-9b6b-e137878b29d7/content
  2. Tabla Dinámica Datos Climatológicos 2015-2021 Zorrales.xlsx 
  3. Arias, R., Mader, T., & Escobar, P. (2008). Factores climáticos que afectan el desempeño productivo del ganado bovino de carne y leche. SCIELO, 40(7–22), 9. https://www.scielo.cl/pdf/amv/v40n1/art02.pdf 
- 4. DataScientest. (2022). Matplotlib: todo lo que tienes que saber sobre la librería Python de Dataviz. Formation Data Science. https://datascientest.com/es/todo-sobre-matplotlib
- 5. Hernández Castro, C. M. (2021). Series de precipitación y temperatura en Zamorano: tendencias, proyección y relación con el cambio climático. Tesis de pregrado. Escuela Agrícola Panamericana, Zamorano. https://bdigital.zamorano.edu/server/api/core/bitstreams/c833d7a4-b8b3-4585-9b6b-e137878b29d7/content
+ 4. Cabrera, E., Elena, G., & García, D. (n.d.). Manual de uso de Jupyter notebook para aplicaciones docentes. Universidad Complutense de Madrid.        https://eprints.ucm.es/id/eprint/48304/1/ManualJupyter.pdf
+ 5. Coppola, M. (2022). Qué es Pandas en Python y cómo instalarlo. HubSpot. https://blog.hubspot.es/website/que-es-pandas-python
+ 6. DataScientest. (2022). Matplotlib: todo lo que tienes que saber sobre la librería Python de Dataviz. Formation Data Science. https://datascientest.com/es/todo-sobre-matplotlib
+ 7. Flores, F. (2022). Qué es Visual Studio Code y qué ventajas ofrece. OpenWebinars.net. https://openwebinars.net/blog/que-es-visual-studio-code-y-que-ventajas-ofrece/
+ 8. Hernández Castro, C. M. (2021). Series de precipitación y temperatura en Zamorano: tendencias, proyección y relación con el cambio climático. Tesis de pregrado.     Escuela Agrícola Panamericana, Zamorano. https://bdigital.zamorano.edu/server/api/core/bitstreams/c833d7a4-b8b3-4585-9b6b-e137878b29d7/content
+ 9.  Hernández Castro, C. M. (2021). Series de precipitación y temperatura en Zamorano: tendencias, proyección y relación con el cambio climático. Tesis de pregrado. Escuela Agrícola Panamericana, Zamorano. https://bdigital.zamorano.edu/server/api/core/bitstreams/c833d7a4-b8b3-4585-9b6b-e137878b29d7/content
+ 10. R., D. (2016, April 19). Estrés por calor en porcino. Comunidad Profesional Porcina. https://www.3tres3.com/latam/articulos/estres-por-calor-en-porcino_11771/ 
+
  
 
