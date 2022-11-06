@@ -95,7 +95,7 @@ Los resultados del proyecto se muestran positivos en cuanto al funcionamiento op
 
  En este proyecto utilizaremos los archivos exportados desde la base de datos de estación climatológica de Zamorano ( Escuela Agrícola Panamericana Zamorano). 
  
- Nuestra base de Datos se encuntra en los archivos indicados arrriba en el readme como (Tea) base de datos limpiada y utilizada para generar nuestras gráficas y    (Tabla Dinámica Datos Climatológicos 2015-2021 Zorrales.xlsx) base de datos originales.
+ Nuestra base de Datos se encuentra en los archivos indicados arrriba en el readme como (Tea) base de datos limpiada y utilizada para generar nuestras gráficas y    (Tabla Dinámica Datos Climatológicos 2015-2021 Zorrales.xlsx) base de datos originales.
 
 ## Referencias
 
