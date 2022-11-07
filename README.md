@@ -47,15 +47,14 @@ Los resultados del proyecto se muestran positivos en cuanto al funcionamiento op
 
 ## Conclusiones
 
-1.	Con ayuda de este algoritmo se puede tomar las mejores decisiones en el área agropecuaria además que se tendrá conocimiento de las condiciones climatología que presenta la zona o área a trabajar. De esa manera se optimizará los recursos y por ende la producción.
+1.	Se determino un algoritmo mediante el uso de aplicaciones propuestas por los docentes con el fin de organizar y graficar datos de la base climatológica (temperatura, precipitación y humedad relativa) de la Universidad Zamorano.
 
-2.	Se determino un algoritmo mediante el uso de aplicaciones propuestas por los docentes con el fin de organizar y graficar datos de la base climatológica (temperatura, precipitación y humedad relativa) de la Universidad Zamorano.
+2.	Con ayuda de este algoritmo se puede tomar las mejores decisiones en el área agropecuaria además que se tendrá conocimiento de las condiciones climatología que presenta la zona o área a trabajar. De esa manera se optimizará los recursos y por ende la producción.
 
 3.	Se comprendieron los datos de la estación climatológica de Zamorano tomando y graficando las variables temperatura promedio anual, precipitación promedio anual y humedad relativa promedio anual del año 2015 al 2022.
 
-4.	Se presentaron los resultados por medio gráficas que proyectaron y organizaron el entendimiento de los datos recopilados de cada una de las variables seleccionadas.
+4.	En definitiva, es de suma importancia la utilización de este tipo de herramientas como Visual Code, Python, Github, Matplotlib entre otras con el fin de planificar y manifestar los datos de la Estación Climatológica de Zamorano, de esta forma, plantear soluciones validas de esta problemática de cambios irregulares de temperatura, precipitación y humedad relativa.
 
-5.	En conclusión, es de suma relevancia la utilización de este tipo de herramientas como Visual Code, Python, Github, entre otras con el fin de organizar e interpretar datos basados en la Estación Climatológica de Zamorano.
 
 
 
@@ -65,7 +64,7 @@ Los resultados del proyecto se muestran positivos en cuanto al funcionamiento op
 
 2. La capacidad de pronosticar los cambios de temperatura que habrá en los años por venir en la zona evaluada, esto sería posible si se cumple con un requisito y seria tener una base de datos de 5 años anteriores como mínimo, para llevar a cabo la pronosticación.
 
-3. También se puede implementar un método en el cual compare los datos actuales con los anteriores y muestre los cambios y magnitudes de estos que hubieron de un año a otro .
+3. Así mismo se puede implementar un método en el cual compare los datos actuales con los anteriores y muestre los cambios y magnitudes de estos que hubieron de un año a otro .
 
 4. Este proyecto también permitira a futuro poder mejorarse, ya que solo es una base de lo mucho que se puede hacer, posibles estudiantes de Zamorano pueden tomar como referencia dicho proyecto, y tratar de mejorar e innovar más sobre él.
 
