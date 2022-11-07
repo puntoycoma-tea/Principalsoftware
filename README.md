@@ -22,7 +22,7 @@ Dentro de los diferentes cambios causados por el mal uso de los recursos y el im
 ## Solución en el área Agrícola
 
 En el presente proyecto se utilizará una base de datos de una estación climatológica de la universidad zamorano seleccionando una variables  que serán tabuladas en formato csv. Utilizando el lenguaje de programación Python se creará un algoritmo que permita organizar y graficar los datos en las aplicaciones propuestas por los asesores.
-Como parte de las recomendaciones enfocadas en la producción pecuaria en la actualidad se debe trabajar por el bienestar animal, garantizando una buena producción con la obtención de altos rendimientos y la seguridad de un trato justo a los animales, en este esquema de producción la temperatura representa un factor importante a considerar prueba de ello en la producción bovina, una temperatura adecuada ya sea en la producción de ganado de carne, lechero o doble propósito, tiene una variación debido a las razas manejadas dentro de cada sistema; el ganado de carne estabulado o de producción extensiva debe contar con un período de descanso lo cual debe de contar con una buena relación con la temperatura ya que ello evitará un estrés calórico lo cual puede tener repercusiones, expone (Khalifa 2003, en Arias et al., 2008, definió la temperatura ambiente efectiva de confort para el ganado como el estado constante de temperatura corporal, la cual puede ser mantenida sin necesidad de ajustes fisiológicos o de comportamiento. Por esta razón el promedio de la temperatura ambiente es generalmente considerado como la principal medida térmica utilizada para estimar confort animal).  En cuanto a la producción de carne pueden existir asfixias por el incremento de temperatura.
+Como parte de las recomendaciones enfocadas en la producción pecuaria en la actualidad se debe trabajar por el bienestar animal, garantizando una buena producción con la obtención de altos rendimientos y la seguridad de un trato justo a los animales, en este esquema de producción la temperatura representa un factor importante a considerar prueba de ello en la producción bovina, una temperatura adecuada ya sea en la producción de ganado de carne, lechero o doble propósito, tiene una variación debido a las razas manejadas dentro de cada sistema; el ganado de carne estabulado o de producción extensiva debe contar con un período de descanso, lo cual, debe de contar con una buena relación con la temperatura ya que ello evitará un estrés calórico lo cual puede tener repercusiones, expone (Khalifa 2003, en Arias et al., 2008, definió la temperatura ambiente efectiva de confort para el ganado como el estado constante de temperatura corporal, la cual puede ser mantenida sin necesidad de ajustes fisiológicos o de comportamiento. Por esta razón el promedio de la temperatura ambiente es generalmente considerado como la principal medida térmica utilizada para estimar confort animal).  En cuanto a la producción de carne pueden existir asfixias por el incremento de temperatura.
 
 ## Métodos y Herramientas utilizadas
 
@@ -36,14 +36,14 @@ Este proyecto incluye la utilización de herramientas de desarrollo como ser Pyt
 
 4. Pandas ( Es una librería en Python que se especializa en el manejo, análisis y procesamiento de datos. (Coppola, 2022))
 
-5. Matplotlib (es una librería de Python open source que permite crear visualizaciones de datos. Es posible crear trazados, histogramas, diagramas de barra y cualquier tipo de grafica con ayuda de algunas líneas de código. (DataScientest, 2022)).
+5. Matplotlib (es una librería de Python open source que permite crear visualizaciones de datos. Es posible crear trazados, histogramas, diagramas de barra y cualquier tipo de gráfica con ayuda de algunas líneas de código. (DataScientest, 2022)).
 
 ## Resultados
    <img height="400" src= "https://github.com/NacelyAguilar/Lab-TEA-imageoriginal/blob/main/comparaci%C3%B3nori.png" align="middle">
 
 ## Interpretación de Gráfica
 
-Los resultados del proyecto se muestran positivos en cuanto al funcionamiento optimo del programa, pudiendo graficar de manera precisa y entendible la base de datos de la estación climatológica, gracias a esto podemos analizar la gráfica y entender de mejor manera la fuente de datos y así poder actuar en base a la información recibida. Por ejemplo, al analizar la gráfica de temperaturas mínimas y máximas anuales nos damos cuenta el incremento gradual que existe en la línea referente a las temperaturas máximas anuales, que empieza desde el 2015 y gradualmente va subiendo a medida se acerca al 2022, también cabe recalcar la pequeña temporada de estabilidad que empezó a finales del 2019 hasta mediados del 2021, lo cual podemos asociar a la paralización total de las actividades humanas debido a la pandemia mundial.
+Los resultados del proyecto se muestran positivos en cuanto al funcionamiento optimo del programa, pudiendo graficar de manera precisa y entendible la base de datos de la estación climatológica, gracias a esto podemos analizar la gráfica y entender de mejor manera la fuente de datos y así poder actuar en base a la información recibida. Por ejemplo, al analizar la gráfica de temperaturas mínimas y máximas anuales nos damos cuenta el incremento gradual que existe en la línea referente a las temperaturas máximas anuales, que empieza desde el 2015 y gradualmente va subiendo a medida se acerca al 2022, también cabe recalcar la pequeña temporada de estabilidad que empezó a finales del 2019 hasta mediados del 2021, lo cual, podemos asociar a la paralización total de las actividades humanas debido a la pandemia mundial.
 
 ## Conclusiones
 
@@ -60,11 +60,11 @@ Los resultados del proyecto se muestran positivos en cuanto al funcionamiento op
 
 ## Proyección a Futuro
 
-1. Una posible ruta de mejora para este proyecto podría ser el agregarle la capacidad de identificar patrones entre graficas de cada año, para localizar las épocas del año en las cuales se dan las temperaturas más altas y bajas, para poder adecuar los sistemas productivos y obtener una mejor eficiencia, así como también encontrar cambios como los atrasos o adelantos de épocas lluviosas o secas año con año.
+1. Una posible ruta de mejora para este proyecto podría ser el agregarle la capacidad de identificar patrones entre gráficas de cada año, para localizar las épocas del año, en las cuales, se dan las temperaturas más altas y bajas, para poder adecuar los sistemas productivos y obtener una mejor eficiencia, así como también encontrar cambios como los atrasos o adelantos de épocas lluviosas o secas año con año.
 
-2. La capacidad de pronosticar los cambios de temperatura que habrá en los años por venir en la zona evaluada, esto sería posible si se cumple con un requisito y seria tener una base de datos de 5 años anteriores como mínimo, para llevar a cabo la pronosticación.
+2. La capacidad de pronosticar los cambios de temperatura que habrá en los años por venir en la zona evaluada, esto sería posible si se cumple con un requisito y sería tener una base de datos de 5 años anteriores como mínimo, para llevar a cabo la pronosticación.
 
-3. Así mismo se puede implementar un método en el cual compare los datos actuales con los anteriores y muestre los cambios y magnitudes de estos que hubieron de un año a otro .
+3. Así mismo, se puede implementar un método en el cual compare los datos actuales con los anteriores y muestre los cambios y magnitudes de estos que hubieron de un año a otro .
 
 4. Este proyecto también permitira a futuro poder mejorarse, ya que solo es una base de lo mucho que se puede hacer, posibles estudiantes de Zamorano pueden tomar como referencia dicho proyecto, y tratar de mejorar e innovar más sobre él.
 
