@@ -49,7 +49,7 @@ Los resultados del proyecto se muestran positivos en cuanto al funcionamiento op
 
 ## Conclusiones
 
-1.	Se determino un algoritmo mediante el uso de aplicaciones propuestas por los docentes con el fin de organizar y graficar datos de la base climatológica (temperatura, precipitación y humedad relativa) de la Universidad Zamorano.
+1.	Se determinó un algoritmo mediante el uso de aplicaciones propuestas por los docentes con el fin de organizar y graficar datos de la base climatológica (temperatura, precipitación y humedad relativa) de la Universidad Zamorano.
 
 2.	Con ayuda de este algoritmo se puede tomar las mejores decisiones en el área agropecuaria además que se tendrá conocimiento de las condiciones climatología que presenta la zona o área a trabajar. De esa manera se optimizará los recursos y por ende la producción.
 
@@ -68,7 +68,7 @@ Los resultados del proyecto se muestran positivos en cuanto al funcionamiento op
 
 3. Así mismo, se puede implementar un método en el cual compare los datos actuales con los anteriores y muestre los cambios y magnitudes de estos que hubieron de un año a otro .
 
-4. Este proyecto también permitira a futuro poder mejorarse, ya que solo es una base de lo mucho que se puede hacer, posibles estudiantes de Zamorano pueden tomar como referencia dicho proyecto, y tratar de mejorar e innovar más sobre él.
+4. Este proyecto también permitira a futuro poder mejorarse, ya que solo es una base de lo mucho que se puede hacer, posibles estudiantes de Zamorano pueden tomar como referencia dicho proyecto, y tratar de mejorar e innovar más sobre el.
 
 
 
